@@ -6,7 +6,7 @@ This repository contains tasks and solutions from my internship at eDynamix, foc
 
 ## Overview
 
-Throughout my internship at eDynamix, I worked on various tasks that strengthened my SQL Server skills. This repository is a collection of these tasks, demonstrating my ability to work with databases, write complex queries, and solve real-world problems.
+Throughout my internship at eDynamix, I worked on various tasks that strengthened my SQL Server skills. This repository is a collection of these tasks, demonstrating my ability to work with databases, write complex queries, and solve real-world problems. Successfully completing the internship allowed me to advance to a Junior Database Developer position at eDynamix.
 
 ## Technologies Used
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
