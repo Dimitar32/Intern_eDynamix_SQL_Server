@@ -15,6 +15,3 @@ Throughout my internship at eDynamix, I worked on various tasks that strengthene
 - **SQL Server** - Database management and query execution
 - **T-SQL** - Writing stored procedures, functions, and views
 - **Git** - Version control for managing task progress
-
-## Project Structure
-
